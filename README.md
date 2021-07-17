@@ -14,7 +14,7 @@ Requirements:
     PUTANJA = FDB path
 
 The application provides following functionalities:
-  - Query execution against with data row update/delete functions
+  - Query execution, update/delete the row with Navigator component.
   - Making backups and restores
   - Sweep the db
   - Read the header of the db
