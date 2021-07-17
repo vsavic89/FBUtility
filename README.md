@@ -1,5 +1,7 @@
 # FBUtility
 
+Simple application that can be used to quickly access Firebird dbs and use some basic functionalities.
+
 IDE: Delphi XE3+
 
 Requirements: 
