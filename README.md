@@ -2,7 +2,7 @@
 
 Simple application that can be used to quickly access Firebird dbs and use some basic functionalities.
 
-IDE: Delphi XE3+
+IDE: Delphi XE3+ (with FireDAC components, but you can implement other as well)
 
 Requirements: 
 1. Firebird v2.0+
